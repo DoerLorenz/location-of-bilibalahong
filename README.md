@@ -1,4 +1,4 @@
-**Ⅰ>>>VERSION:  PC**ⅡⅢ
+**Ⅰ>>>VERSION:  PC**
 
 
 	v2rayN
